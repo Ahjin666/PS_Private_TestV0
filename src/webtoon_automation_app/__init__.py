@@ -1,1 +1,0 @@
-"""Webtoon automation app package."""
